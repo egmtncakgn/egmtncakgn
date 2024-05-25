@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Egemen Tunç Akgün</h1>
-<h3 align="center">A passionate Mecatronics Engineer from Türkiye</h3>
+<h1 align="center">Merhaba! Ben Egemen Tunç Akgün</h1>
+<h3 align="center">mekatronik mühendisiyim ve yazılım, elektronik ve mekanik sistemlerin kesişiminde projeler geliştiriyorum. Robotik, otomasyon ve yapay zeka konularında tutkuluyum. GitHub'da açık kaynak projelerimi paylaşarak bilgi ve deneyimlerimi topluluğa katkıda bulunmayı seviyorum. Yeni teknolojileri keşfetmek ve yaratıcı çözümler üretmek için buradayım.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egmtncakgn&label=Profile%20views&color=0e75b6&style=flat" alt="egmtncakgn" /> </p>
 
