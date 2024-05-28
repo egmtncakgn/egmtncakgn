@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Merhaba! Ben Egemen Tunç Akgün
 Mekatronik mühendisiyim ve yazılım, elektronik ve mekanik sistemlerin kesişiminde projeler geliştiriyorum. Robotik, otomasyon ve yapay zeka konularında tutkuluyum. GitHub'da açık kaynak projelerimi paylaşarak bilgi ve deneyimlerimi topluluğa katkıda bulunmayı seviyorum. Yeni teknolojileri keşfetmek ve yaratıcı çözümler üretmek için buradayım.
 
 
