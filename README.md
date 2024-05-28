@@ -14,5 +14,4 @@ Mekatronik mühendisiyim yazılım, elektronik ve mekanik sistemlerin kesişimin
 
 <img src='https://memer-new.vercel.app/' style="height: 350px;"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=egmtncakgn&icon=2&color=4)](https://visitcount.itsvg.in)
-
+![](https://visitcount.itsvg.in/api?id=egmtncakgn&icon=2&color=4)
