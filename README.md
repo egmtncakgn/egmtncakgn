@@ -10,8 +10,6 @@ Mekatronik mühendisiyim yazılım, elektronik ve mekanik sistemlerin kesişimin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=egmtncakgn&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egmtncakgn&theme=dark&hide_border=true)<br/>
-![Egemen T. Akgün](https://github-readme-stats.vercel.app/api/top-langs/?username=egmtncakgn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=egmtncakgn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <img src='https://memer-new.vercel.app/' style="height: 350px;"/>
----
-![](https://visitcount.itsvg.in/api?id=egmtncakgn&icon=2&color=4)
