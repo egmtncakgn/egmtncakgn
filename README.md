@@ -8,9 +8,10 @@ Mekatronik mühendisiyim yazılım, elektronik ve mekanik sistemlerin kesişimin
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,unity,ubuntu,c#,c++" />
   </a>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=egmtncakgn&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egmtncakgn&theme=dark&hide_border=true)<br/>
