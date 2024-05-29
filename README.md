@@ -8,7 +8,7 @@ Mekatronik mühendisiyim yazılım, elektronik ve mekanik sistemlerin kesişimin
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,unity,ubuntu,cs,cpp,python,flutter,dart,unreal" />
+    <img src="https://skillicons.dev/icons?i=c,unity,ubuntu,cs,cpp,python,flutter,dart,unreal,dotnet,arduino&perline=7" />
   </a>
 </p>
 
